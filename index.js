@@ -21,6 +21,7 @@ class Retangulo
 
 let quadrado = new Retangulo("10", "10");
 let retangulo = new Retangulo("60", "30");
+let quad = new Retangulo("20", "20")
 
 console.log(quadrado.area())
 console.log(retangulo.area())
